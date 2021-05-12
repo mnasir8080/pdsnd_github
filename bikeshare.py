@@ -4,6 +4,7 @@ import numpy as np
 
 #Array declearations
 #and assignment od values
+#added for refactoring
 CITY_DATA = { 'chicago': 'chicago.csv', 'new york': 'new_york_city.csv', 'washington': 'washington.csv' }
 cities = ['chicago', 'new york', 'washington']
 months = ['january', 'february', 'march', 'april', 'may', 'june']
@@ -13,7 +14,7 @@ def get_filters():
     #Asks user to specify which city, month or day to analyze.
     #Returns:  (str) city - name of the city to analyze, month - name of the month to filter and day - name of the day of week to filter
     print("Initiating US bikeshare data")   
-    # Get the city the user wants to analyse.
+    # Get the city the user wants to analyse. 
     while True:
         city =input("Please type one from the following cities for analysis:\nChicago, New York or Washington\n").lower()
         if city in cities:
