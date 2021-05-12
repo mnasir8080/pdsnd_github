@@ -37,3 +37,6 @@ Washington.csv - Data set for  Washington provided by Udacity.
 Python documentation
 Udacity Lectures for Programming for Data Science
 
+### AUTHOR
+Original Author is Udacity from where i forked
+
