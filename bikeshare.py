@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+#Array declearations
+#and assignment od values
 CITY_DATA = { 'chicago': 'chicago.csv', 'new york': 'new_york_city.csv', 'washington': 'washington.csv' }
 cities = ['chicago', 'new york', 'washington']
 months = ['january', 'february', 'march', 'april', 'may', 'june']
