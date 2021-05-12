@@ -5,7 +5,7 @@
 
 ### Description
 Programming for Data Science with Python Nanodegree Program project of Bikeshare interactive analysis of three (3) cities using python programing language to read data sets from .csv files. Cities are Chicago, New York and Washington. 
-This Python script get insructions from the user on which city to analyse, what to analyse and display the statistic of the analysis.
+This Python script get insructions from the user on which city to analyze, what to analyze and display the statistic of the analysis.
 
 ###The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
