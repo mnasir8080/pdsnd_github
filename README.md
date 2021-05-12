@@ -34,8 +34,9 @@ New_york_city.csv - Data set for New York provided by Udacity.
 Washington.csv - Data set for  Washington provided by Udacity. 
 
 ### Credits
-Python documentation
-Udacity Lectures for Programming for Data Science
+Python documentation,
+Udacity Lectures for Programming for Data Science,
+stack overflow
 
 ### AUTHOR
 Original Author is Udacity from where i forked
